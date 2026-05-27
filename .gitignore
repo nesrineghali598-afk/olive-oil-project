@@ -27,3 +27,5 @@ desktop.ini
 
 # Données sensibles
 *.log
+# Claude Code
+.claude/
